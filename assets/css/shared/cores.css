@@ -1,0 +1,10 @@
+:root {
+    --my-gradient: linear-gradient(to right, #96750a, #96750a, #aa8713, #aa8713, #cea318, #cea318, #aa8713, #aa8713, #96750a, #96750a);
+    --bg-color: #cea318;
+    --text-color: #fff;
+    --bg-main: #000;
+    --btn-bg: #aa8713;
+    --btn-hover: #96750a;
+    --border-color: #fff;
+}
+
